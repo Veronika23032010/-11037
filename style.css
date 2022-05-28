@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: plum
+}
+
+p {
+    background-color: palevioletred;
+    color: beige;
+    font-size: 20px;
+    
+}
+
+
+img {
+    border: 5px dashed lightpink;
+
+    
+}
+h2 {
+    background-color: lightcoral;
+    color: lightgoldenrodyellow;
+}
+
+ul {
+    background-color: #f3b39c;
+    color: cornsilk;
+    font-size: 30px;
+}
+
+a {
+    background-color: aquamarine;
+}
+
+.aga {
+    float: inline-start;
+    background-color: burlywood;
+}
+
+.ugu {
+    float:inline-start;
+    background-color: cornsilk;
+}
